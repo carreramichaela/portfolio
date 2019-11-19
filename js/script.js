@@ -15,6 +15,4 @@ $(document).ready(function(){
     startDelay: 1000,
     showCursor: false,
   });
-
-
 });
