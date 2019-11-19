@@ -7,4 +7,13 @@ $(document).ready(function(){
     animation_easing: 'linear'
   })
 
+  var typed = new Typed(".typed", {
+    strings: ["Web Developer.","Student.", "Problem Solver."],
+    typeSpeed: 40,
+    loop: true,
+    startDelay: 1000,
+    showCursor: false,
+  });
+
+
 });
